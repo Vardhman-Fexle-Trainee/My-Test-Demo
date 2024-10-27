@@ -1,0 +1,9 @@
+public class ABCTest{
+
+	String str = '1';
+	String str = '2';
+	String str = '3';
+	String str = '1';
+	String str = '2';
+	String str = '3';
+}
