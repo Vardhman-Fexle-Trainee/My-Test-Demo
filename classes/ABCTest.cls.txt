@@ -1,6 +1,6 @@
 public class ABCTest{
 
-	String str = '1';
-	String str = '2';
-	String str = '3';
+	String str1 = '1';
+	String str2 = '2';
+	String str3 = '3';
 }

@@ -1,9 +1,9 @@
 public class ABCTest{
 
-	String str = '1';
-	String str = '2';
-	String str = '3';
-	String str = '1';
-	String str = '2';
-	String str = '3';
+	String str1 = '1';
+	String str2 = '2';
+	String str3 = '3';
+	String str4 = '4';
+	String str5 = '5';
+	String str6 = '6';
 }
